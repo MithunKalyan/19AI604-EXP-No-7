@@ -1,4 +1,4 @@
-## Experiment 5 – Create an Application to Demonstrate HashMap Collection Object  
+## Experiment 7 – Create an Application to Demonstrate HashMap Collection Object  
 
 <H3>ENTER YOUR NAME:</H3>  
 <H3>ENTER YOUR REGISTER NO:</H3>  
