@@ -37,7 +37,7 @@ STEP 7: Access values using `.get(key)` and display them. <BR>
 STEP 8: End the program. <BR>  
 
 ## PROGRAM:  
-
+```
 // Rust program to demonstrate HashMap Collection
 
 use std::collections::HashMap;
@@ -73,7 +73,7 @@ fn main() {
         println!("{}: {}", name, score);
     }
 }
-
+```
 
 ## OUTPUT:
 
